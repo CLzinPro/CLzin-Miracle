@@ -7,7 +7,7 @@
         "Atlantus_Flag": "2",
         "Atlantus_Type": "2",
         "Atlantus_Open": "1",
-        "Atlantus_Payload": "FORCE /? FULL / HTTP/1.1[crlf]Host: servidor61.sockslite.com [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+        "Atlantus_Payload": "GET / HTTP/1.1[crlf]Host: servidor64.sockslite.com[crlf]Upgrade: websocket[crlf][crlf]",
         "Atlantus_SshPort": "80",
         "Atlantus_ProxyPort": "80",
         "Atlantus_SshIp": "104.18.6.80",

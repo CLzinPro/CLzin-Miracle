@@ -3,15 +3,15 @@
             
        {
         "id": 26,
-        "Atlantus_Name": "Clzin Server 1",
+        "Atlantus_Name": "Security Server 1",
         "Atlantus_Flag": "2",
         "Atlantus_Type": "2",
         "Atlantus_Open": "1",
-        "Atlantus_Payload": "GET / HTTP/1.1[crlf]Host: nxx0.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
+        "Atlantus_Payload": "FORCE /? FULL / HTTP/1.1[crlf]Host: dev4tunnel.com [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
         "Atlantus_SshPort": "80",
         "Atlantus_ProxyPort": "80",
-        "Atlantus_SshIp": "104.18.6.80",
-        "Atlantus_ProxyIp": "104.18.6.80",
+        "Atlantus_SshIp": "172.67.165.43",
+        "Atlantus_ProxyIp": "172.67.165.43",
         "Atlantus_Dns1": "8.8.8.8",
         "Atlantus_Dns2": "8.8.4.4",
         "Atlantus_OpenKey": "",
@@ -22,7 +22,7 @@
       },
        {
         "id": 27,
-        "Atlantus_Name": "Security Server 02",
+        "Atlantus_Name": "Security Server 2",
         "Atlantus_Flag": "2",
         "Atlantus_Type": "0",
         "Atlantus_Open": "1",
@@ -43,19 +43,19 @@
         "MiracleMisc": [
           {
             "id": 1,
-                "Atlantus_RegistrationID": "6421846581",
-            "Atlantus_UniqueID": "49140",
+                "Atlantus_RegistrationID": "642736581",
+            "Atlantus_UniqueID": "11340",
             "Atlantus_SpinnerColor": "#ffffff",
             "Atlantus_OLED": "0",
             "Atlantus_InputStyle": "#080078",
             "Atlantus_InputBorder": "5px",
-            "Atlantus_InputAlpha": "0.5",
+            "Atlantus_InputAlpha": "1",
             "Atlantus_InputColor": "#ffffff",
             "Atlantus_LoginStyle": "#bdbdbd",
             "Atlantus_LoginBorder": "10px",
-            "Atlantus_LoginAlpha": "0.0",
-            "Atlantus_ButtonStyle": "#40ba1e",
-            "Atlantus_ButtonBorder": "40px",
+            "Atlantus_LoginAlpha": "0.8",
+            "Atlantus_ButtonStyle": "#ff00d4",
+            "Atlantus_ButtonBorder": "5px",
             "Atlantus_ButtonAlpha": "1",
             "Atlantus_ButtonColor": "#ffffff",
             "Atlantus_LogoUrl": "https://atlantus.com.br/miracle/update/drawing/O059m94tYjXarXddOJ34IIqGva3KMT947TZS5ffXsLZjXnBAqFNnVSZbRSQwTb2bVoAovC4dvTAifW8sJLsVKPOqbx6puewMNbP65KFIbEn1qiLLB9ztetHWNa0jRCIDwWglegJio6MhOoPMFaEcTEX1IWfBYK6nMjf4HVuTbtJGDQSUFWmsmJj1qKkJ7i2XDTEgJRZZT3TItzuBo7TGVeFGFhJrWWm39qvYV6LdUjl99BBB.png",
@@ -66,9 +66,9 @@
             "Atlantus_MenuActive": "yes",
             "Atlantus_MenuColor": "#882211",
             "Atlantus_MenuTextColor": "#882211",
-            "Atlantus_Buffer": "1",
-            "Atlantus_WelcomeActive": "no",
-            "Atlantus_MiracleWeb": "https://revendassh.online",
+            "Atlantus_Buffer": "0",
+            "Atlantus_WelcomeActive": "yes",
+            "Atlantus_MiracleWeb": "https://scvirtual.alphi.media/",
             "Atlantus_MiracleRate": "",
             "Lang_WelcomeTitle": "Boas vindas ao app",
             "Lang_WelcomeText": "Você agora pode usar o app para conectar ao seu servidor.",
@@ -85,5 +85,7 @@
             "Lang_LoginButton": "Entrar",
             "Lang_LoginErrorTitle": "Erro",
             "Lang_LoginErrorText": "Usuário ou senha inválidos.",
-            "Lang_UpdateText": "Atualizacao concluida, Parabéns."
+            "Lang_UpdateText": "Atualização concluida, o aplicativo esta pronto para o uso."
           }
+        ]
+      }

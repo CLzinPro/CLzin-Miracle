@@ -39,11 +39,11 @@
         "Atlantus_SniHost": "protecao.vivo.com.br",
         "Atlantus_AwsUID": "588552"
       },
-{
+      {
         "id": 28,
         "Atlantus_Name": "Easy Server 3",
         "Atlantus_Flag": "2",
-        "Atlantus_Type": "0",
+        "Atlantus_Type": "1",
         "Atlantus_Open": "1",
         "Atlantus_Payload": "GET / HTTP/1.1[crlf]Host: nxx0.clodfront.site[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
         "Atlantus_SshPort": "80",
@@ -57,8 +57,7 @@
         "Atlantus_UdpPort": "7300",
         "Atlantus_SniHost": "protecao.vivo.com.br",
         "Atlantus_AwsUID": "588553"
-      },
-
+      }
         ],
         "MiracleMisc": [
           {

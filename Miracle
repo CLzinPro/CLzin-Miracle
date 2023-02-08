@@ -3,7 +3,7 @@
             
        {
         "id": 26,
-        "Atlantus_Name": "CLzin Server 1",
+        "Atlantus_Name": "CLzin Server 01",
         "Atlantus_Flag": "2",
         "Atlantus_Type": "2",
         "Atlantus_Open": "1",
@@ -22,7 +22,7 @@
       },
        {
         "id": 27,
-        "Atlantus_Name": "Security Server 2",
+        "Atlantus_Name": "Security Server VIVO 2",
         "Atlantus_Flag": "2",
         "Atlantus_Type": "0",
         "Atlantus_Open": "1",

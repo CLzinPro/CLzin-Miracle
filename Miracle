@@ -40,7 +40,7 @@
         "Atlantus_AwsUID": "588552"
       },
        {
-        "id": 82628,
+        "id": 28,
         "Atlantus_Name": "Easy Server 3",
         "Atlantus_Flag": "2",
         "Atlantus_Type": "0",
@@ -56,10 +56,10 @@
         "Atlantus_SslPort": "443",
         "Atlantus_UdpPort": "7300",
         "Atlantus_SniHost": "protecao.vivo.com.br",
-        "Atlantus_AwsUID": "920955"
+        "Atlantus_AwsUID": "587656"
       },
         {
-        "id": 101458,
+        "id": 29,
         "Atlantus_Name": "Easy Server 4",
         "Atlantus_Flag": "2",
         "Atlantus_Type": "0",
@@ -75,10 +75,10 @@
         "Atlantus_SslPort": "443",
         "Atlantus_UdpPort": "7300",
         "Atlantus_SniHost": "protecao.vivo.com.br",
-        "Atlantus_AwsUID": "669460"
+        "Atlantus_AwsUID": "586550"
       },
         {
-        "id": 101458,
+        "id": 30,
         "Atlantus_Name": "Easy Server 5",
         "Atlantus_Flag": "2",
         "Atlantus_Type": "0",
@@ -94,10 +94,10 @@
         "Atlantus_SslPort": "443",
         "Atlantus_UdpPort": "7300",
         "Atlantus_SniHost": "protecao.vivo.com.br",
-        "Atlantus_AwsUID": "1920849"
+        "Atlantus_AwsUID": "584554"
       },
        {
-        "id": 101458,
+        "id": 31,
         "Atlantus_Name": "Easy Server 5",
         "Atlantus_Flag": "2",
         "Atlantus_Type": "0",
@@ -113,27 +113,8 @@
         "Atlantus_SslPort": "443",
         "Atlantus_UdpPort": "7300",
         "Atlantus_SniHost": "protecao.vivo.com.br",
-        "Atlantus_AwsUID": "1920849"
-      },
-       {
-        "id": 124704,
-        "Atlantus_Name": "Easy Server 6",
-        "Atlantus_Flag": "2",
-        "Atlantus_Type": "0",
-        "Atlantus_Open": "1",
-        "Atlantus_Payload": "GET / HTTP/1.1[crlf]Host: br5.charlesluis.tk[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-        "Atlantus_SshPort": "80",
-        "Atlantus_ProxyPort": "80",
-        "Atlantus_SshIp": "104.18.7.80",
-        "Atlantus_ProxyIp": "104.18.7.80",
-        "Atlantus_Dns1": "1.1.1.1",
-        "Atlantus_Dns2": "8.8.8.8",
-        "Atlantus_OpenKey": "",
-        "Atlantus_SslPort": "443",
-        "Atlantus_UdpPort": "7300",
-        "Atlantus_SniHost": "protecao.vivo.com.br",
-        "Atlantus_AwsUID": "1117318"
-      },
+        "Atlantus_AwsUID": "585555"
+      }
         ],
         "MiracleMisc": [
           {

@@ -21,8 +21,8 @@
         "Atlantus_AwsUID": "589268"
       },
        {
-        "id": 27,
-        "Atlantus_Name": "Easy Server 2",
+        "id": 29,
+        "Atlantus_Name": "Easy Server 3",
         "Atlantus_Flag": "2",
         "Atlantus_Type": "0",
         "Atlantus_Open": "1",
@@ -37,7 +37,7 @@
         "Atlantus_SslPort": "443",
         "Atlantus_UdpPort": "7300",
         "Atlantus_SniHost": "protecao.vivo.com.br",
-        "Atlantus_AwsUID": "588552"
+        "Atlantus_AwsUID": "589559"
       }
         ],
         "MiracleMisc": [

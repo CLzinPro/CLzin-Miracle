@@ -1,4 +1,4 @@
-{
+      {
         "MiracleServers": [
             
        {
@@ -19,6 +19,25 @@
         "Atlantus_UdpPort": "7300",
         "Atlantus_SniHost": "",
         "Atlantus_AwsUID": "589268"
+      },
+      {
+        "id": 27,
+        "Atlantus_Name": "Easy Server 2",
+        "Atlantus_Flag": "2",
+        "Atlantus_Type": "0",
+        "Atlantus_Open": "1",
+        "Atlantus_Payload": "GET / HTTP/1.1[crlf]Host: br2.charlesluis.tk[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+        "Atlantus_SshPort": "80",
+        "Atlantus_ProxyPort": "80",
+        "Atlantus_SshIp": "104.18.7.80",
+        "Atlantus_ProxyIp": "104.18.7.80",
+        "Atlantus_Dns1": "1.1.1.1",
+        "Atlantus_Dns2": "8.8.8.8",
+        "Atlantus_OpenKey": "",
+        "Atlantus_SslPort": "443",
+        "Atlantus_UdpPort": "7300",
+        "Atlantus_SniHost": "protecao.vivo.com.br",
+        "Atlantus_AwsUID": "588552"
       },
        {
         "id": 29,
